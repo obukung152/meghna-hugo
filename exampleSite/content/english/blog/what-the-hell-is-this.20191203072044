@@ -2,8 +2,8 @@
 author = "obukung"
 date = 2020-04-16T17:00:00Z
 description = "this is a book"
-image = ""
-image_webp = ""
+image = "/images/portfolio/portfolio-2.jpg"
+image_webp = "/images/portfolio/portfolio-2.webp"
 title = "what the hell is this"
 
 +++
