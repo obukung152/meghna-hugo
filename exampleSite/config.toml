@@ -1,4 +1,4 @@
-baseURL = "https://obukung.netlify.com"
+baseURL = "https://obukung.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
